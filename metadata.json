@@ -1,0 +1,6 @@
+{
+  "name": "My Mini City",
+  "description": "Полноценный 3D симулятор строительства города со стилизованной графикой, жителями, автомобилями, развитой экономикой и сменой дня и ночи.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
